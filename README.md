@@ -25,17 +25,17 @@ This project is a turn-based RPG game built with Python and Pygame. It features 
    git clone https://github.com/your-username/pygame-turn-based-rpg.git
    cd pygame-turn-based-rpg
 ## Assets 🎨
-  Sprites: Sprite sheets for characters and opponents.
-  UI: Custom button textures and dialogue boxes.
-  Backgrounds: Immersive backgrounds for gameplay scenes.
+- Sprites: Sprite sheets for characters and opponents.
+- UI: Custom button textures and dialogue boxes.
+- Backgrounds: Immersive backgrounds for gameplay scenes.
 
 ## How to Play 🕹️
-  Menu: Start the game or exit from the main menu. 📋
-  Tutorial: Read through the instructions provided in the dialogue box. 📚
-  Combat ⚔️:
-  Choose an action: basic attack, power attack, or heal.
+- Menu: Start the game or exit from the main menu. 📋
+- Tutorial: Read through the instructions provided in the dialogue box. 📚
+- Combat ⚔️:
+- Choose an action: basic attack, power attack, or heal.
 ## Future Improvements 🚀
-  Add more player actions and enemy types. 🦸‍♂️🦹‍♂️
-  Enhance visuals and include sound effects. 🎶
-  Introduce a leveling system and inventory management. 🏆🎒
-  All assets were free resources found on Craftpix.net. 🖼️
+- Add more player actions and enemy types. 🦸‍♂️🦹‍♂️
+- Enhance visuals and include sound effects. 🎶
+- Introduce a leveling system and inventory management. 🏆🎒
+- All assets were free resources found on Craftpix.net. 🖼️
